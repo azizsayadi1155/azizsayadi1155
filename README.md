@@ -38,7 +38,7 @@ $ cat philosophy.txt
 
 $ cat skills.txt
 
-[AI/LLMs]: Tensorflow · PyTorch · Transformers · LangGraph · LangChain · RAG · Fine-tuning · Embeddings · Prompt Engineering
+[AI/LLMs]: Tensorflow · PyTorch · Transformers · LangChain · RAG · Fine-tuning · Embeddings · Prompt Engineering
 [Engineering]: Python · JavaScript · FastAPI · REST APIs · PostgreSQL · Docker · Kubernetes · Redis · CI/CD
 [Data/MLOps]: Scikit-learn · Pandas · NumPy · MLflow · Kafka · Spark
 [Cloud]: AWS · Azure · GCP
