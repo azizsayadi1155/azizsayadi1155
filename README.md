@@ -1,10 +1,10 @@
 <div align="center">
 
-# `azizsayadi@lab:~$`
+# `azizsayadi@ai:~$`
 
 ### AI Engineer · Agentic Systems · Linux · Open Source
 
-**I build agentic systems, experiment with ideas, and turn them into useful software.**
+**I build AI products and experiment with open source tools.**
 
 </div>
 
@@ -55,8 +55,3 @@ Type: On-site / Hybrid / Remote
 Availability: Immediately
 
 ```
-<div align="center">
-  
-**AI by profession. Linux by choice. Builder by obsession.**
-
-</div>
