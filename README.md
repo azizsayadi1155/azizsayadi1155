@@ -12,13 +12,16 @@
 ---
 
 ```
-$ neofetch
+$ fastfetch
 
-OS        CachyOS (Arch Linux Based)
-Desktop   Niri / DankMaterialShell
-Shell     Fish
-Focus     AI + Agents + Software
-Mode      Build → Learn → Ship
+   /''''''''''''/       █ OS: CachyOS (Arch Linux Based)
+  /''''''''''''/        █ WM: Niri
+ /''''''/               █ Shell: fish
+/''''''/                █ Focus: AI + Agents + FOSS
+\......\                █ Mode: Build
+ \......\               █ Battery: 100%
+  \.............../     █ Sleep: 0%
+   \............./      █ Caffeine: 100%
 
 $ cat philosophy.txt
 
