@@ -4,7 +4,7 @@
 
 ### AI Engineer · Agentic Systems · Linux · Open Source
 
-**I build AI products and experiment with open source tools.**
+**I build AI systems, explore the open source frontier, and turn ideas into software.**
 
 </div>
 
