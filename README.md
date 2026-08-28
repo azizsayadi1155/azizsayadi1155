@@ -22,7 +22,7 @@ $ fastfetch
   \.............../     █ Sleep: 0%
    \............./      █ Caffeine: 100%
 
-$ tail -n 8 /var/log/aziz.log
+$ tail -n 4 /var/log/aziz.log
 
 [INFO]  AI: llms, agentic systems, workflows, orchestration
 [INFO]  Linux: ricing, breaking things, testing new tools
