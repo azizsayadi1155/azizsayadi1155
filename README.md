@@ -4,13 +4,7 @@
 
 ### AI Engineer · Agentic Systems · Linux · Open Source
 
-**I build intelligent systems, experiment with ideas, and turn them into useful software.**
-
-<br>
-
-[GitHub](https://github.com/azizsayadi1155) ·
-[LinkedIn](https://www.linkedin.com/in/aziz-sayadi/)
-
+**I build agentic systems, experiment with ideas, and turn them into useful software.**
 </div>
 
 ---
@@ -18,8 +12,8 @@
 ```
 $ neofetch
 
-OS        CachyOS
-Desktop   Niri / DMS
+OS        CachyOS (Arch Linux Based)
+Desktop   Niri / DankMaterialShell
 Shell     Fish
 Focus     AI + Agents + Software
 Mode      Build → Learn → Ship
@@ -31,6 +25,31 @@ Build before consuming.
 Measure before claiming.
 Prefer open tooling.
 Turn ideas into products.
+
+$ cat interests.txt
+
+AI Engineering
+Agentic AI
+Linux / FOSS
+Data Science
+Coding
+Reading
+
+$ cat currently.txt
+
+→ Building production-oriented AI systems
+→ Exploring agentic architectures & workflows
+→ Implementing ideas from research papers
+→ Experimenting with local / Open AI tools
+→ Turning ideas into real products
+
+$ cat work.txt
+
+Currently seeking full-time job opportunities as an AI/ML Engineer!
+Preferred locations: Europe/North America
+Type: On-site / Hybrid / Remote
+Availability: Immediately
+
 ```
 <div align="center">
 AI by profession. Linux by choice. Builder by obsession.
