@@ -6,7 +6,6 @@
 
 **I build agentic systems, experiment with ideas, and turn them into useful software.**
 
-<img src="lofi-coder.png" alt="Lofi coder pixel art" width="50%" height="50%">
 </div>
 
 ---
