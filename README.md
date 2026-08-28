@@ -6,6 +6,7 @@
 
 **I build AI systems, explore the open source frontier, and turn ideas into software.**
 
+<img src="pixelart-background.png" alt="Lofi Background pixel art" width="100%">
 </div>
 
 ---
