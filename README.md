@@ -5,6 +5,8 @@
 ### AI Engineer · Agentic Systems · Linux · Open Source
 
 **I build agentic systems, experiment with ideas, and turn them into useful software.**
+
+<img src="lofi-coder.png" alt="Lofi coder pixel art" width="50%" height="50%">
 </div>
 
 ---
@@ -52,5 +54,7 @@ Availability: Immediately
 
 ```
 <div align="center">
-AI by profession. Linux by choice. Builder by obsession.
+  
+**AI by profession. Linux by choice. Builder by obsession.**
+
 </div>
