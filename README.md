@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**azizsayadi1155/azizsayadi1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `azizsayadi@lab:~$`
 
-Here are some ideas to get you started:
+### AI Engineer · Agentic Systems · Linux · Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I build intelligent systems, experiment with ideas, and turn them into useful software.**
+
+<br>
+
+[GitHub](https://github.com/azizsayadi1155) ·
+[LinkedIn](https://www.linkedin.com/in/aziz-sayadi/)
+
+</div>
+
+---
+
+```
+$ neofetch
+
+OS        CachyOS
+Desktop   Niri / DMS
+Shell     Fish
+Focus     AI + Agents + Software
+Mode      Build → Learn → Ship
+
+$ cat philosophy.txt
+
+Understand the system.
+Build before consuming.
+Measure before claiming.
+Prefer open tooling.
+Turn ideas into products.
+```
+<div align="center">
+AI by profession. Linux by choice. Builder by obsession.
+</div>
