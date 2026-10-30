@@ -39,11 +39,11 @@ $ cat philosophy.txt
 
 $ cat skills.txt
 
-[AI/LLMs]: Tensorflow · PyTorch · Transformers · LangChain · RAG · Fine-tuning · Embeddings · Prompt Engineering
-[Engineering]: Python · JavaScript · FastAPI · REST APIs · PostgreSQL · Docker · Kubernetes · Redis · CI/CD
+[AI/LLMs]: Tensorflow · PyTorch · Transformers · LangChain · LangGraph · RAG · Fine-tuning · Embeddings · Prompt Engineering
+[Engineering]: Python · JavaScript · FastAPI · Django · Flask · REST APIs · PostgreSQL · Docker · Kubernetes · Redis · CI/CD
 [Data/MLOps]: Scikit-learn · Pandas · NumPy · MLflow · Kafka · Spark
 [Cloud]: AWS · Azure · GCP
-[Environment]: Linux · Git · Bash
+[Environment]: Linux · Git · Bash · Claude Code · Hermes Agent · OpenCode · Antigravity · Pi
 
 $ cat goals.txt
 
@@ -56,7 +56,6 @@ $ cat goals.txt
 $ cat work.txt
 
 Currently seeking full-time job opportunities as an AI/ML Engineer!
-Preferred locations: Europe/North America
 Type: On-site / Hybrid / Remote
 Availability: Immediately
 ```
